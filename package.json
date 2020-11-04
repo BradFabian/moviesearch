@@ -1,0 +1,22 @@
+{
+  "name": "moviesearch",
+  "version": "1.0.0",
+  "description": "React App for searching movies on an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradFabian/moviesearch.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BradFabian/moviesearch/issues"
+  },
+  "homepage": "https://github.com/BradFabian/moviesearch#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

@@ -1,4 +1,4 @@
-import './App.css';
+
 import SearchMovie from './component/SearchMovie';
 
 function App() {
